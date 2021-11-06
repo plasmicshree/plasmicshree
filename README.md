@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @plasmicshree
 - 👀 I’m interested in Data Science, Machine Learning, Data Visualization and Quantum Computing.
-- 🌱 I’m currently learning Quantum Computing during my free time.
+- 🌱 I’m currently working full time at University at North Carolina at Charlotte as well as a Data Science Intern at Torqata Data and Analytics. I like learning Quantum Computing during my free time.
 
 
 <!---
